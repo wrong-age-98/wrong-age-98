@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wrong-age-98.
-- 👀 I’m interested in SLAM and perception.
-- 🌱 I’m currently learning SLAM and graph optimization.
-- 💞️ I’m looking to collaborate on HuiKong's AI Lab.
+- 👀 I’m interested in SLAM and planning control.
+- 🌱 I’m currently learning SLAM and optimization.
+- 💞️ I’m looking to collaborate on MoCAM.
 - 📫 How to reach me mc14949@um.edu.mo.
 
 <!---
